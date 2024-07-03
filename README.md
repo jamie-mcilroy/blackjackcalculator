@@ -40,7 +40,7 @@ This Python script calculates the odds of winning in Blackjack based on the play
 4. Install any necessary packages (none required for this script as it uses standard libraries):
 
     ```bash
-    pip install -r requirements.txt  # This step is not necessary as no external packages are required
+    pip install -r requirements.txt  
     ```
 
 ## Usage
